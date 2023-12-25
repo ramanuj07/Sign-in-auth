@@ -1,0 +1,28 @@
+.heading{
+    text-align: center;
+}
+
+.subheading{
+    text-align: center;
+    margin-bottom: 4rem;
+}
+
+#input--form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#email{
+    margin-top: 0.5rem;
+    margin-bottom: 1.5rem;
+}
+
+#pass{
+    margin-top: 0.5rem;
+}
+
+#submit{
+    margin-top: 1.5rem;
+}
